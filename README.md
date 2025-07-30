@@ -33,7 +33,7 @@ class Megumi {
 | Trophy | Event |
 |--------|--------|
 | 🥉 **3rd Best Paper** | *Applicable Solution* - 3rd International Youth Conference on Engineering Innovation |
-| 🏅 **Finalist** | Hackathon UB (Universitas Brawijaya) Hub |
+| 🏅 **Finalist** | Hackathon UB (Brawijaya University) Hub |
 
 ### 🎸 **Current Vibe Check**
 ```bash
