@@ -57,7 +57,7 @@ $ neofetch
 ### 📺 **Anime Radar**
 <div align="center">
   
-![Bocchi Banner](https://github.com/Megumi-desu/Megumi-desu/blob/main/assets/bocchi_banner.gif)
+![Bocchi Banner](https://raw.githubusercontent.com/Megumi-desu/Megumi-desu/main/assets/bocchi-the-rock-bocchi.gif)
 
 **Top Picks:**
 - 🎸 **Bocchi The Rock!** - *"Bocchi-chan is my spirit animal"*
