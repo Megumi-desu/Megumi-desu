@@ -57,7 +57,7 @@ $ neofetch
 ### 📺 **Anime Radar**
 <div align="center">
   
-![Bocchi Banner](https://github.com/megumi/megumi/blob/main/assets/bocchi_banner.gif)
+![Bocchi Banner](https://github.com/Megumi-desu/Megumi-desu/blob/main/assets/bocchi_banner.gif)
 
 **Top Picks:**
 - 🎸 **Bocchi The Rock!** - *"Bocchi-chan is my spirit animal"*
@@ -96,7 +96,6 @@ $ neofetch
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
-```
 
 <!---
 Megumi-desu/Megumi-desu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
